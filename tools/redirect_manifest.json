@@ -2,7 +2,7 @@
   "_doc": "Redirect stubs for retired/duplicate intents. Each listed slug MUST stay a redirect stub (meta-refresh + canonical + noindex,follow) pointing at its canonical owner. DO NOT regenerate retired slugs as full pages. dogemergency.org is built canonical-owners-only, so this starts EMPTY by design — the rail exists from day one so we NEVER repeat the cat/rabbit -emergency-signs cannibalization cleanup. If you ever retire an intent, add it here and the guard will enforce it.",
   "site": "https://dogemergency.org",
   "langs": ["", "ja/", "zh-tw/", "th/"],
-  "require_shared_css": false,
+  "require_shared_css": true,
   "shared_css": ["styles.css", "styles-b.css"],
   "redirects": {}
 }

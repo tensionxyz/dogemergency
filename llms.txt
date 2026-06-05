@@ -1,0 +1,42 @@
+# DogEmergency.org
+
+> Educational dog-emergency triage for owners across Asia: recognise urgent signs, reach a veterinarian or emergency animal hospital fast, and understand vet-guided recovery support. Not a substitute for veterinary care; products are recovery support used after a vet assesses the dog, never an emergency treatment.
+
+## Emergency topic hubs
+- [Dog gut, vomiting & bloat emergencies](https://dogemergency.org/dog-gut-and-bloat-emergencies/): Bloat (GDV), repeated vomiting, bloody diarrhoea and a dog that won't eat can turn life-threatening fast. Learn which gut signs are a go-now emergency and what to tell your vet.
+- [Dog poisoning & toxin emergencies](https://dogemergency.org/dog-poisoning-and-toxins/): Chocolate, xylitol, grapes/raisins, rodenticide and human medicines are common dog poisonings. Learn what's an emergency, what to have ready, and why to call before you wait.
+- [Dog breathing, collapse & bleeding emergencies](https://dogemergency.org/dog-breathing-and-collapse-emergencies/): Difficulty breathing, collapse, pale gums, seizures and heavy bleeding are go-now emergencies in dogs. Learn the warning signs and the safe steps while you reach a vet.
+- [Dog heatstroke, trauma & injury emergencies](https://dogemergency.org/dog-heat-and-trauma-emergencies/): Heatstroke, road accidents, fractures, wounds and allergic reactions need fast, correct first action in dogs. Learn safe first steps and what not to do while you reach a vet.
+- [Puppy emergencies](https://dogemergency.org/dog-puppy-emergencies/): Puppies crash fast. Learn the emergency signs of parvovirus, low blood sugar and a fading puppy, and why an unvaccinated puppy with vomiting or diarrhoea needs a vet now.
+- [Dog recovery & post-surgery aftercare](https://dogemergency.org/dog-recovery-and-aftercare/): After a vet has stabilised your dog, recovery matters. Learn how to support appetite, hydration and digestion during convalescence with vet-guided care.
+
+## Emergency guides
+- [Dog bloat / GDV (swollen, hard belly)](https://dogemergency.org/dog-bloat-gdv/): Bloat and gastric dilatation-volvulus (GDV) can kill a dog within hours. Learn the red-flag signs &mdash; a swollen hard belly and unproductive retching &mdash; and act now.
+- [Dog vomiting (repeated or severe)](https://dogemergency.org/dog-vomiting/): Occasional vomiting can be minor, but repeated vomiting, blood, or a vomiting dog who is weak or has a swollen belly is an emergency. Learn the red flags and what to tell your vet.
+- [Dog diarrhoea (including bloody diarrhoea)](https://dogemergency.org/dog-diarrhea/): Mild diarrhoea is common, but bloody diarrhoea, a weak or collapsing dog, or diarrhoea with vomiting can be an emergency. Learn the warning signs and what to tell your vet.
+- [Dog not eating (loss of appetite)](https://dogemergency.org/dog-not-eating/): A dog refusing food can be minor or a sign of serious illness. Learn when a dog not eating is an emergency, what to watch alongside it, and what to tell your vet.
+- [Dog ate something toxic](https://dogemergency.org/dog-ate-something-toxic/): If your dog ate something poisonous, acting early &mdash; often before signs appear &mdash; matters. Learn the immediate steps, what to have ready, and which common toxins are emergencies.
+- [Dog ate chocolate](https://dogemergency.org/dog-ate-chocolate/): Chocolate contains theobromine, which is toxic to dogs. Learn which chocolate is most dangerous, what signs to watch for, and why to call a vet with the details now.
+- [Dog ate xylitol (sugar-free sweetener)](https://dogemergency.org/dog-ate-xylitol/): Xylitol in sugar-free gum, sweets and baked goods is highly toxic to dogs and acts fast. Learn why even small amounts are an emergency and what to do immediately.
+- [Dog ate grapes or raisins](https://dogemergency.org/dog-ate-grapes-raisins/): Grapes, raisins, sultanas and currants can cause sudden kidney injury in dogs, even in small amounts. Learn why this is an emergency and what to do right away.
+- [Dog heatstroke / overheating](https://dogemergency.org/dog-heatstroke/): Heatstroke can cause organ damage in dogs within minutes. Learn the warning signs, how to cool a dog safely on the way to the vet, and what never to do.
+- [Dog difficulty breathing](https://dogemergency.org/dog-difficulty-breathing/): Laboured breathing, blue or pale gums, or a dog stretching to breathe is an emergency. Learn the red-flag signs and how to get help fast without adding stress.
+- [Dog pale gums or collapse](https://dogemergency.org/dog-pale-gums-collapse/): Pale or white gums, sudden weakness or collapse can signal shock, internal bleeding or another crisis. Learn why this is a go-now emergency and what to do.
+- [Dog seizure / fit](https://dogemergency.org/dog-seizure/): A single short seizure may not be an emergency, but a long seizure, repeated seizures, or a first-ever seizure needs urgent care. Learn how to keep your dog safe and when to call now.
+- [Dog allergic reaction](https://dogemergency.org/dog-allergic-reaction/): Facial swelling, hives, vomiting or sudden weakness after a sting, food or vaccine can be an allergic reaction. Learn which signs are an emergency and what to do.
+- [Dog road accident, fall or trauma](https://dogemergency.org/dog-trauma-accident/): After a car accident, fall or major injury, a dog can look stable but have hidden internal damage. Learn how to move and transport your dog safely and why a vet check is essential.
+- [Puppy parvovirus (parvo)](https://dogemergency.org/dog-parvovirus-puppy/): Parvovirus causes vomiting, bloody diarrhoea and rapid collapse in unvaccinated puppies and is often fatal without care. Learn the signs and why it's a same-day emergency.
+- [Puppy low blood sugar (hypoglycaemia)](https://dogemergency.org/dog-puppy-low-blood-sugar/): Small and young puppies can develop dangerously low blood sugar fast, causing weakness, wobbliness or seizures. Learn the signs and the safe first step while you reach a vet.
+- [Dog recovery after surgery or illness](https://dogemergency.org/dog-recovery-after-surgery/): After a vet has treated your dog, recovery is where appetite, hydration and a settled gut matter. Learn how to support convalescence safely, and which signs mean call the vet back.
+
+## Find a vet
+- [Dog emergency vet in Hong Kong](https://dogemergency.org/dog-emergency-vet-hong-kong/)
+- [Dog emergency vet in Tokyo](https://dogemergency.org/dog-emergency-vet-tokyo/)
+- [Dog emergency vet in Taipei](https://dogemergency.org/dog-emergency-vet-taipei/)
+- [Dog emergency vet in Singapore](https://dogemergency.org/dog-emergency-vet-singapore/)
+- [Dog emergency vet in Bangkok](https://dogemergency.org/dog-emergency-vet-bangkok/)
+
+## About & trust
+- [Veterinary review](https://dogemergency.org/veterinary-review/): How DogEmergency.org content is written and reviewed against AVMA and small-animal emergency-medicine standards by our veterinary advisory board.
+- [Medical disclaimer](https://dogemergency.org/medical-disclaimer/): DogEmergency.org is educational and is not a substitute for professional veterinary advice, diagnosis or treatment.
+- [About DogEmergency.org](https://dogemergency.org/about/): DogEmergency.org helps dog owners across Asia recognise emergencies, reach veterinary care fast, and understand vet-guided recovery.
