@@ -11,3 +11,7 @@
 .related a{background:var(--paper);border:1px solid var(--border);border-radius:12px;padding:14px 16px;font-weight:600;color:var(--pine-deep)}
 .related a:hover{border-color:var(--pine-2);text-decoration:none}
 .disclaimer{background:var(--blue-bg);border:1px solid #C9DEE7;border-radius:12px;padding:14px 18px;font-size:14px;color:var(--blue);margin:22px 0}
+/* Homepage hero: dark pine gradient over the photo so white hero text stays readable */
+.hero-shade{position:absolute;inset:0;z-index:0;background:linear-gradient(102deg,rgba(13,39,24,.95) 0%,rgba(13,39,24,.82) 38%,rgba(13,39,24,.42) 66%,rgba(13,39,24,.12) 100%)}
+.hero-image{z-index:0}
+@media(max-width:760px){.hero-shade{background:linear-gradient(180deg,rgba(13,39,24,.86),rgba(13,39,24,.92))}}
