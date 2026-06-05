@@ -50,6 +50,9 @@ def load_retired():
 
 
 def iter_owner_pages():
+    """Yield only OWNER triage pages. Owners self-identify by MedicalWebPage
+    schema; hubs (CollectionPage) and trust/city pages (WebPage) are skipped, so
+    the 450-word rule applies only where it should."""
     retired = load_retired()
     for name in sorted(os.listdir(ROOT)):
         d = os.path.join(ROOT, name)
@@ -58,7 +61,10 @@ def iter_owner_pages():
         if name in retired:
             continue
         fp = os.path.join(d, "index.html")
-        if os.path.isfile(fp):
+        if not os.path.isfile(fp):
+            continue
+        head = open(fp, encoding="utf-8").read(4000)
+        if '"@type":"MedicalWebPage"' in head.replace(" ", "") or '"MedicalWebPage"' in head:
             yield name, fp
 
 
