@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DogEmergency paw">
+<rect width="64" height="64" rx="14" fill="#1A472A"/>
+<g fill="#FAFAF5">
+<ellipse cx="32" cy="41" rx="13" ry="11"/>
+<circle cx="17" cy="27" r="5.4"/>
+<circle cx="47" cy="27" r="5.4"/>
+<circle cx="24.5" cy="17.5" r="5"/>
+<circle cx="39.5" cy="17.5" r="5"/>
+</g>
+</svg>
