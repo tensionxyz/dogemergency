@@ -2,6 +2,22 @@
 
 > Educational dog-emergency triage for owners across Asia: recognise urgent signs, reach a veterinarian or emergency animal hospital fast, and understand vet-guided recovery support. Not a substitute for veterinary care; products are recovery support used after a vet assesses the dog, never an emergency treatment.
 
+## About
+- Publisher: DogEmergency.org, an educational resource operated under the CCH Foundation (a Hong Kong registered charity).
+- Audience: dog owners across Hong Kong, Japan, Taiwan, Singapore and Thailand.
+- Editorial standard: reviewed against AVMA, AAHA and small-animal emergency-medicine standards by a veterinary advisory board. Every guide directs owners to a veterinarian first.
+- Product framing: any products named (e.g. Alfavet ReConvales, DiaTab) are recovery support used only after veterinary assessment, never an emergency treatment or a cure.
+- Last reviewed: 2026-06-05.
+
+## Fast triage facts (safe to cite)
+- Bloat/GDV: a swollen hard belly with unproductive retching is a minutes-matter emergency; go to a vet now.
+- Xylitol (sugar-free gum/sweets): can crash a dog's blood sugar within minutes; emergency.
+- Grapes/raisins: can cause acute kidney injury; no reliably safe amount; call a vet.
+- Chocolate: risk depends on type (dark/baking worst), amount and the dog's weight.
+- Heatstroke: cool with cool (not iced) water and go to a vet; can damage organs within minutes.
+- Unvaccinated puppy with vomiting and bloody diarrhoea: suspect parvovirus; same-day emergency.
+- Straining to urinate with little/no urine (esp. male dogs): possible blockage; emergency within a day.
+
 ## Emergency topic hubs
 - [Dog gut, vomiting & bloat emergencies](https://dogemergency.org/dog-gut-and-bloat-emergencies/): Bloat (GDV), repeated vomiting, bloody diarrhoea and a dog that won't eat can turn life-threatening fast. Learn which gut signs are a go-now emergency and what to tell your vet.
 - [Dog poisoning & toxin emergencies](https://dogemergency.org/dog-poisoning-and-toxins/): Chocolate, xylitol, grapes/raisins, rodenticide and human medicines are common dog poisonings. Learn what's an emergency, what to have ready, and why to call before you wait.
@@ -10,7 +26,7 @@
 - [Puppy emergencies](https://dogemergency.org/dog-puppy-emergencies/): Puppies crash fast. Learn the emergency signs of parvovirus, low blood sugar and a fading puppy, and why an unvaccinated puppy with vomiting or diarrhoea needs a vet now.
 - [Dog recovery & post-surgery aftercare](https://dogemergency.org/dog-recovery-and-aftercare/): After a vet has stabilised your dog, recovery matters. Learn how to support appetite, hydration and digestion during convalescence with vet-guided care.
 
-## Emergency guides
+## Emergency guides (canonical, one intent each)
 - [Dog bloat / GDV (swollen, hard belly)](https://dogemergency.org/dog-bloat-gdv/): Bloat and gastric dilatation-volvulus (GDV) can kill a dog within hours. Learn the red-flag signs &mdash; a swollen hard belly and unproductive retching &mdash; and act now.
 - [Dog vomiting (repeated or severe)](https://dogemergency.org/dog-vomiting/): Occasional vomiting can be minor, but repeated vomiting, blood, or a vomiting dog who is weak or has a swollen belly is an emergency. Learn the red flags and what to tell your vet.
 - [Dog diarrhoea (including bloody diarrhoea)](https://dogemergency.org/dog-diarrhea/): Mild diarrhoea is common, but bloody diarrhoea, a weak or collapsing dog, or diarrhoea with vomiting can be an emergency. Learn the warning signs and what to tell your vet.
@@ -41,8 +57,20 @@
 - [Dog eye injury or painful eye](https://dogemergency.org/dog-eye-injury/): A painful, injured, or bulging eye in a dog can threaten sight fast. Learn the red flags and why eye emergencies need same-day veterinary care.
 - [Dog hypothermia (dangerously cold)](https://dogemergency.org/dog-hypothermia/): Cold exposure can be dangerous for dogs, especially puppies, small, thin, or elderly dogs. Learn the signs and how to warm a dog safely while you reach a vet.
 - [Dog whelping problems (difficult labour)](https://dogemergency.org/dog-whelping-problems/): Difficult labour in a dog can endanger the mother and puppies. Learn the warning signs of dystocia and when a whelping dog needs urgent veterinary help.
+- [Dog ate marijuana / THC](https://dogemergency.org/dog-ate-marijuana-thc/): Dogs are very sensitive to THC from cannabis, edibles, or oils. Learn the signs, why edibles are extra dangerous, and why telling the vet the truth helps your dog.
+- [Dog antifreeze poisoning (ethylene glycol)](https://dogemergency.org/dog-antifreeze-poisoning/): Antifreeze is sweet-tasting and extremely toxic to dogs, attacking the kidneys. Treatment only works if it starts early, so this is a call-now emergency.
+- [Dog ate onion or garlic](https://dogemergency.org/dog-ate-onion-or-garlic/): Onion, garlic, leeks and chives can damage a dog's red blood cells, with signs that may be delayed for days. Learn when to call the vet.
+- [Dog ate macadamia nuts](https://dogemergency.org/dog-ate-macadamia-nuts/): Macadamia nuts cause weakness, tremors and fever in dogs, and many treats also contain chocolate. Learn the signs and when to call the vet.
+- [Dog bee or wasp sting](https://dogemergency.org/dog-bee-or-wasp-sting/): Most stings cause minor swelling, but some dogs have severe allergic reactions. Learn which signs are an emergency and what to do.
+- [Dog pyometra (infected womb)](https://dogemergency.org/dog-pyometra/): Pyometra is a serious womb infection in unspayed female dogs, usually weeks after a season. Learn the warning signs and why it needs urgent surgery.
+- [Dog suddenly cannot use its back legs](https://dogemergency.org/dog-cannot-walk-back-legs/): Sudden back-leg weakness or paralysis can be a spinal disc emergency (IVDD) or a clot. Fast veterinary care protects the chance of walking again.
+- [Dog ate a foreign object (sock, toy, bone)](https://dogemergency.org/dog-ate-foreign-object/): Swallowed socks, toys, bones or stones can block a dog's gut, which is life-threatening. Learn the warning signs and why early action matters.
+- [Dog constipation / straining to poop](https://dogemergency.org/dog-constipation/): Occasional constipation is common, but straining with no stool, pain, or a swollen belly can be serious. Learn when a dog needs a vet.
+- [Dog coughing](https://dogemergency.org/dog-coughing/): Many coughs are mild, but some signal a heart or lung problem that needs urgent care. Learn which coughs mean call a vet now.
+- [Dog tick paralysis](https://dogemergency.org/dog-tick-paralysis/): Certain ticks release a toxin that causes progressive weakness and paralysis in dogs. Learn the early signs and why it's a go-now emergency.
+- [Dog eclampsia / milk fever (nursing mother)](https://dogemergency.org/dog-eclampsia-milk-fever/): Eclampsia is a dangerous drop in blood calcium in nursing dogs, causing tremors and seizures. Learn the signs and why it needs immediate care.
 
-## Find a vet
+## Find an emergency vet (real 24-hour clinics, source-linked)
 - [Dog emergency vet in Hong Kong](https://dogemergency.org/dog-emergency-vet-hong-kong/)
 - [Dog emergency vet in Tokyo](https://dogemergency.org/dog-emergency-vet-tokyo/)
 - [Dog emergency vet in Taipei](https://dogemergency.org/dog-emergency-vet-taipei/)
@@ -53,3 +81,7 @@
 - [Veterinary review](https://dogemergency.org/veterinary-review/): How DogEmergency.org content is written and reviewed against AVMA and small-animal emergency-medicine standards by our veterinary advisory board.
 - [Medical disclaimer](https://dogemergency.org/medical-disclaimer/): DogEmergency.org is educational and is not a substitute for professional veterinary advice, diagnosis or treatment.
 - [About DogEmergency.org](https://dogemergency.org/about/): DogEmergency.org helps dog owners across Asia recognise emergencies, reach veterinary care fast, and understand vet-guided recovery.
+
+## Related resources
+- Homepage: https://dogemergency.org/
+- Sitemap: https://dogemergency.org/sitemap.xml
